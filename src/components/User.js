@@ -8,7 +8,7 @@ import MailIcon from "@material-ui/icons/Mail"
 function User() {
   return (
     <div className="user">
-      <img src="./images/sidi.jpeg" className="user__avatar" alt="" />
+      
       <h1 className="user__name">Sidi El Moctar ELWERIE</h1>
       <p className="user__profession">product Owner Intern</p>
       <div className="user__infos">
