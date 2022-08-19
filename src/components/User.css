@@ -3,7 +3,7 @@
     text-align: center;  
   }
   .user__avatar {  
-    border-radius: 50%;
+    border-radius: 20%;
   }
   .user__infos {
     text-align: left;  
