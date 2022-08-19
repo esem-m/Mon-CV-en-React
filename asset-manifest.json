@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/Mon-CV-en-React/static/css/main.073c9b0a.css",
-    "main.js": "/Mon-CV-en-React/static/js/main.b05fa457.js",
-    "static/js/787.444b50db.chunk.js": "/Mon-CV-en-React/static/js/787.444b50db.chunk.js",
-    "static/media/logo.svg": "/Mon-CV-en-React/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/Mon-CV-en-React/static/css/main.a0a5aea3.css",
+    "main.js": "/Mon-CV-en-React/static/js/main.6aeb0ffe.js",
     "index.html": "/Mon-CV-en-React/index.html",
-    "main.073c9b0a.css.map": "/Mon-CV-en-React/static/css/main.073c9b0a.css.map",
-    "main.b05fa457.js.map": "/Mon-CV-en-React/static/js/main.b05fa457.js.map",
-    "787.444b50db.chunk.js.map": "/Mon-CV-en-React/static/js/787.444b50db.chunk.js.map"
+    "main.a0a5aea3.css.map": "/Mon-CV-en-React/static/css/main.a0a5aea3.css.map",
+    "main.6aeb0ffe.js.map": "/Mon-CV-en-React/static/js/main.6aeb0ffe.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b05fa457.js"
+    "static/css/main.a0a5aea3.css",
+    "static/js/main.6aeb0ffe.js"
   ]
 }
