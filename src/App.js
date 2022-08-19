@@ -10,7 +10,7 @@ import { Preview, print } from "react-html2pdf"
 function App() {
   const handleGenerateCv = () => {
     let cvTemplate = document.getElementById("cv-print")
-    cvTemplate.setAttribute("style", "width:210mm !important")
+    cvTemplate.setAttribute("style", "width:100% !important")
     cvTemplate.classList.add("cv-print")
     document.body.classList.remove("dark")
     setTimeout(() => {
